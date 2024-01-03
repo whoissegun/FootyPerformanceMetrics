@@ -2,14 +2,13 @@
 
 ## Project Overview
 
-This project is designed to fetch, analyze, and visualize football data, focusing on team performance in various leagues. It provides insights into teams' performance across different metrics such as wins, draws, losses, goal distribution, card distribution, and match fixtures.
+This project is designed to fetch, analyze, and visualize data on Manchester City F.C performance in 2022. It provides insights into the teams' performance across different metrics such as wins, draws, losses, goal distribution, card distribution, and match fixtures.
 
 ## Features
 
 - Fetch football data using external APIs.
 - Analyze team performance statistics.
 - Visualize data in different formats (bar charts, pie charts, scatter plots, etc.).
-- Save visualizations as images for further use.
 
 ## Getting Started
 
