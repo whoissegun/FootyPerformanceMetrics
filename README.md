@@ -50,3 +50,4 @@ python main.py
 - `main.py`: Main script to run the analysis.
 - `utils/`: Utility functions and constants.
 - `requirements.txt`: Required Python libraries.
+- `DATA_REPORT.md`: My interpretations of the data visualized
